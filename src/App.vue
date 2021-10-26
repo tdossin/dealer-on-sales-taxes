@@ -1,17 +1,18 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Welcome to Your Vue.js App"/>
+  <ShoppingCart/>
 </template>
 
-<script>
-import HelloWorld from './components/HelloWorld.vue'
+<script lang="ts">
+import { Options, Vue } from 'vue-class-component';
+import ShoppingCart from './components/ShoppingCart.vue';
 
-export default {
-  name: 'App',
+
+@Options({
   components: {
-    HelloWorld
-  }
-}
+    ShoppingCart,
+  },
+})
+export default class App extends Vue {}
 </script>
 
 <style>
@@ -19,8 +20,22 @@ export default {
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  text-align: center;
   color: #2c3e50;
   margin-top: 60px;
 }
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-family: "Jost", sans-serif;
+}
+
+body {
+  margin: 0;
+}
+header {
+  margin-bottom: 30px;
+}
+
 </style>

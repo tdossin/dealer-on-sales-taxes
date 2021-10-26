@@ -1,0 +1,92 @@
+[
+    {
+        "name": "Book",
+        "price": 12.49,
+        "isTaxable": false,
+        "isImported": false,
+        "id": "001",
+        "salesTaxes": 0,
+        "importTaxes": 0,
+        "count": 0
+    },
+    {
+        "name": "Music CD",
+        "price": 14.99,
+        "isTaxable": true,
+        "isImported": false,
+        "id": "002",
+        "salesTaxes": 0,
+        "importTaxes": 0,
+        "count": 0
+    },
+    {
+        "name": "Chocolate Bar",
+        "price": 0.85,
+        "isTaxable": false,
+        "isImported": false,
+        "id": "003",
+        "salesTaxes": 0,
+        "importTaxes": 0,
+        "count": 0
+    },
+    {
+        "name": "Bottle of perfume",
+        "price": 18.99,
+        "isTaxable": true,
+        "isImported": false,
+        "id": "004",
+        "salesTaxes": 0,
+        "importTaxes": 0,
+        "count": 0
+    },
+    {
+        "name": "Packet of headache pills",
+        "price": 9.75,
+        "isTaxable": false,
+        "isImported": false,
+        "id": "005",
+        "salesTaxes": 0,
+        "importTaxes": 0,
+        "count": 0
+    },
+    {
+        "name": "Imported box of chocolates",
+        "price": 10,
+        "isTaxable": false,
+        "isImported": true,
+        "id": "006",
+        "salesTaxes": 0,
+        "importTaxes": 0,
+        "count": 0
+    },
+    {
+        "name": "Imported box of chocolates",
+        "price": 11.25,
+        "isTaxable": false,
+        "isImported": true,
+        "id": "007",
+        "salesTaxes": 0,
+        "importTaxes": 0,
+        "count": 0
+    },
+    {
+        "name": "Imported bottle of perfume",
+        "price": 27.99,
+        "isTaxable": true,
+        "isImported": true,
+        "id": "008",
+        "salesTaxes": 0,
+        "importTaxes": 0,
+        "count": 0
+    },
+    {
+        "name": "Imported bottle of perfume",
+        "price": 47.5,
+        "isTaxable": true,
+        "isImported": true,
+        "id": "009",
+        "salesTaxes": 0,
+        "importTaxes": 0,
+        "count": 0
+    }
+]
