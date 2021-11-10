@@ -18,6 +18,8 @@ and the total sales price.</p>
 
 <p> Full problem description, inputs, and expected outputs are displayed in the solution.</p>
 
+My solution response for the DealerOn front-end developer coding test (Development_Candidate_Coding_Test_v5_20210218).
+
 ## Project setup
 ```
 npm install
@@ -26,16 +28,6 @@ npm install
 ### Compiles and hot-reloads for development
 ```
 npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
 ```
 
 ### Customize configuration
