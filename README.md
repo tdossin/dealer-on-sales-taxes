@@ -1,13 +1,3 @@
-<!DOCTYPE html>
-<html lang="">
-<head>
-    <style type="text/css">
-        table{
-            border: 1px solid black;
-        }
-    </style>
-</head>
-<body>
 # Sales & Import Tax Calculator
 
 ## Problem Summary: 
@@ -32,5 +22,4 @@ npm run serve
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-</body>
-</html>
+
